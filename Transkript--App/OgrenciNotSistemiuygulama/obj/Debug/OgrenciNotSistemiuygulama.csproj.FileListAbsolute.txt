@@ -1,0 +1,16 @@
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\bin\Debug\OgrenciNotSistemiuygulama.exe.config
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\bin\Debug\OgrenciNotSistemiuygulama.exe
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\bin\Debug\OgrenciNotSistemiuygulama.pdb
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.csproj.AssemblyReference.cache
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.DersEkranı.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.frm1ogrencieklesilgun.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.Properties.Resources.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.TranskriptEkranı.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.exe
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.pdb
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.AnaForm.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.DonemEkranı.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.ogrenciyedersekle.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\OgrenciNotSistemiuygulama\OgrenciNotSistemiuygulama\obj\Debug\OgrenciNotSistemiuygulama.TrankriptGor.resources
